@@ -2,3 +2,7 @@
 <Version: 1.01>
 /data/Map021.json https://raw.githubusercontent.com/realCGG/RogueKilobyte/master/Map021.json
 <End of Version>
+
+<Version: 1.02>
+/movies/Splash.mp4 https://raw.githubusercontent.com/realCGG/RogueKilobyte/master/Splash.mp4
+<End of Version>
