@@ -1,4 +1,4 @@
 
 <Version: 1.01>
-
+/data/Map021.json https://raw.githubusercontent.com/realCGG/RogueKilobyte/master/Map021.json
 <End of Version>
